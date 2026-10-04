@@ -132,6 +132,7 @@ namespace VR360
             videoPlayer.isLooping = loopVideo;
             videoPlayer.renderMode = VideoRenderMode.RenderTexture;
             videoPlayer.targetTexture = renderTexture;
+            videoPlayer.skipOnDrop = true; // FORCEER Unity om frames te droppen ipv audio te vertragen!
 
             if (audioSource != null)
             {

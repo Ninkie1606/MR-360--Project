@@ -547,7 +547,7 @@ MonoBehaviour:
   loopVideo: 1
   enableKeyboardDebugControls: 1
   autoAddCameraLook: 1
-  audioSource: {fileID: 1696407491}
+  audioSource: {fileID: 0}
 --- !u!82 &1696407491
 AudioSource:
   m_ObjectHideFlags: 0
@@ -559,8 +559,8 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
-  m_PlayOnAwake: 0
+  m_Resource: {fileID: 8300000, guid: b9a2b85d417424ba0b3fcdd81ebb36f7, type: 3}
+  m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -653,7 +653,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1696407489}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 5bf67574ec0ec4de2996c00f72603184, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 2c65ddf7af0e84cf8bcbf27a76d94664, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
