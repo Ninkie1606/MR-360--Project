@@ -10,7 +10,7 @@ Omdat GitHub geen videobestanden groter dan 100MB toestaat, moet je de video han
 Clone of download deze repository naar je eigen computer en open de map `My project` in **Unity**.
 
 ### Stap 2: Download de 360° Video
-Download het hoofdbestand (`Untitled1_WithAudio_48k.mp4`) via de onderstaande MEGA link:
+Download het hoofdbestand (`Untitled1.mp4`) via de onderstaande MEGA link:
 👉 **[Download de 360° Video hier](https://mega.nz/file/PDoDzZqS#mT_DWT4mpedd6otJg42rqGCxZ9J3bpUC2yBdEP111wk)**
 
 ### Stap 3: Plaats de video in Unity
